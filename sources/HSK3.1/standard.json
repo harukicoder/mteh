@@ -1,0 +1,20 @@
+{
+    "standard": "hsk-syllabus-2025",
+    "applies_to": [
+        "HSK3.1_words_level1.txt",
+        "HSK3.1_words_level2.txt",
+        "HSK3.1_words_level3.txt",
+        "HSK3.1_words_level4.txt",
+        "HSK3.1_words_level5.txt",
+        "HSK3.1_words_level6.txt",
+        "HSK3.1_words_level7-9.txt",
+        "HSK3.1_chars_level1.txt",
+        "HSK3.1_chars_level2.txt",
+        "HSK3.1_chars_level3.txt",
+        "HSK3.1_chars_level4.txt",
+        "HSK3.1_chars_level5.txt",
+        "HSK3.1_chars_level6.txt",
+        "HSK3.1_chars_level7-9.txt"
+    ],
+    "$comment": "What this repository calls HSK 3.1 is the 2025 HSK examination syllabus (新版HSK考试大纲), in force since July 2026 - not the 2021 national standard GF0025-2021, which is also widely called HSK 3.0. Identifier from https://github.com/harukicoder/hsk30/blob/main/spec/standards.json (CC0)."
+}
